@@ -1,1 +1,12 @@
+SDG: 11 sustainable and inclusive cities. 
+
+People without cars are often excluded from participating both economic and social activities in many american cities (Buehler, 2014). Those without cars are often reliant on public transportation, but public transportation is inaccessible for many as public transit routes are focused on brining people to and from commercial centers, rather than the places people would naturally flow otherwise (Stromberg, 2015). Due to America’s car-centric in it’s infrastructure design, many car-owning Americans are unbothered by these issues. However, these transportation issues further economic inequality as it’s those from lower income communities use public transit the most (Freemark, 2021). Buses run at variable times which can be difficult for one to rely for work or doctor appointments (Büchel, 2020). An effect of these variable transit times is that people become hesitant to use public transit and often find it confusing. To address these issues, companies such as Apple or Google attempt to integrate public transit information into their map applications. However, these times usually inaccurately follow the bus times and don’t properly account for schedule variability and traffic. 
+
+Buehler, R. (n.d.). 9 Reasons the U.S. Ended Up So Much More Car-Dependent Than Europe. Bloomberg.com. Retrieved April 2, 2022, from https://www.bloomberg.com/news/articles/2014-02-04/9-reasons-the-u-s-ended-up-so-much-more-car-dependent-than-europe 
+
+Büchel, B., &amp; Corman, F. (2020). Review on statistical modeling of travel time variability for road-based public transport. Frontiers in Built Environment, 6. https://doi.org/10.3389/fbuil.2020.00070 
+
+Freemark , Y. (2021, June 25). US public transit has struggled to retain riders over the past half century. reversing this trend could advance equity and sustainability. Urban Institute. Retrieved April 2, 2022, from https://www.urban.org/urban-wire/us-public-transit-has-struggled-retain-riders-over-past-half-century-reversing-trend-could-advance-equity-and-sustainability 
+
+Stromberg, J. (2015, August 10). The real reason American public transportation is such a&nbsp;disaster. Vox. Retrieved April 2, 2022, from https://www.vox.com/2015/8/10/9118199/public-transportation-subway-buses 
 
